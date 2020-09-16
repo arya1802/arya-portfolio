@@ -1,0 +1,105 @@
+Body{
+    color:black;
+    font-size:30px;
+    font-styLE:ITALIC;
+
+}
+.header{
+    
+    background-color:	#ffffff;
+    color:black;
+    display: flex;
+    justify-content: space-betWEEN;
+  object-position: center;
+    } 
+    .head{
+        margin-top: 60px;
+    } 
+     .sitedis{
+       
+text-align: center;
+font-size:40px;
+     }
+     a:link{
+        color:black;
+       
+    }
+    a:visited{
+    
+        color:black;
+    }
+    
+     .suma{
+
+       
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    
+     }
+     .ABC{
+    animation: forwards;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+     }
+     .chumma{
+
+        background-color:	#ffffff;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+     }
+     .ABCD{
+      
+        display: flex;
+        justify-content: space-evenly;   
+     }
+    
+    .item{
+    
+    
+        position: relative;
+    }
+    .item p{
+    font-size: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50% ,-50%);
+        opacity: 0;
+    }
+    .item:hover p{
+    opacity: 1;
+    
+    }
+    .item:hover img{
+        opacity: 0.60;
+        
+        }
+        
+    .IND{
+        color:black;
+       
+        background-color:	#ffffff;
+        text-align: center;
+    }
+    .IN{
+        background-color:	#ffffff;
+        color:black;
+        text-align: center;
+    }
+    .OUT{
+       margin-top: 150PX;
+       margin-bottom: 150px;
+        background-color:	#ffffff;
+        color:black;
+        text-align: center;
+    }
+    .INDI{
+       
+        background-color:	#ffffff;
+        color:black;
+        text-align: center;
+    }
+    

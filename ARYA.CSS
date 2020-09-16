@@ -1,0 +1,102 @@
+Body{
+    color:#FFFAFA;
+    font-size:30px;
+    font-styLE:ITALIC;
+
+}
+.header{
+    
+    background-color:	#ffffff;
+    color:rgb(43,17,65);
+    display: flex;
+    justify-content: space-betWEEN;
+  object-position: center;
+    } 
+    .head{
+        margin-top: 60px;
+    } 
+     .sitedis{
+        padding-top: 300PX;
+        padding-bottom: 300PX;
+text-align: center;
+font-size:40px;
+     }
+     a:link{
+        color:black;
+       
+    }
+    a:visited{
+    
+        color:rgb(43,17,65);
+    }
+    
+     .suma{
+
+       
+        display: flex;
+        justify-content: space-evenly;
+     }
+     .ABC{
+    
+        display: flex;
+        justify-content: space-evenly;
+     }
+     .chumma{
+
+
+        display: flex;
+        justify-content: space-evenly;
+
+     }
+     .ABCD{
+      
+        display: flex;
+        justify-content: space-evenly;   
+     }
+    
+    .item{
+    
+    
+        position: relative;
+    }
+    .item p{
+    font-size: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50% ,-50%);
+        opacity: 0;
+    }
+    .item:hover p{
+    opacity: 1;
+    
+    }
+    .item:hover img{
+        opacity: 0.60;
+        
+        }
+        
+    .IND{
+        color:rgb(43,17,65);
+       
+        background-color:	#ffffff;
+        text-align: center;
+    }
+    .IN{
+        background-color:	#ffffff;
+        color:rgb(43,17,65);
+        text-align: center;
+    }
+    .OUT{
+       
+        background-color:	#ffffff;
+        color:rgb(43,17,65);
+        text-align: center;
+    }
+    .INDI{
+       
+        background-color:	#ffffff;
+        color:rgb(43,17,65);
+        text-align: center;
+    }
+    
